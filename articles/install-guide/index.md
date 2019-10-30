@@ -2,8 +2,8 @@
 title: Learn how to install the Microsoft Quantum Development Kit (QDK)
 author: natke
 ms.author: nakersha
-ms.date: 10/23/2019
-ms.topic: article
+ms.date: 10/30/2019
+ms.topic: conceptual
 ms.custom: how-to
 uid: microsoft.quantum.install
 ---
@@ -79,6 +79,7 @@ Depending on your chosen development environment, there are different installati
     - [Python](https://www.python.org/downloads/) 3.6 or later
     - The [Anaconda](https://docs.anaconda.com/anaconda/install/) distribution
     - [Jupyter Notebook](https://jupyter.readthedocs.io/en/latest/install.html)
+    - [.NET Core SDK 3.0 or later](https://www.microsoft.com/net/download)
 
 1. Install the `iqsharp` package:
 
@@ -148,7 +149,7 @@ Depending on your chosen development environment, there are different installati
 1. Pre-requisites
 
    - [VS Code](https://code.visualstudio.com/download)
-   - [.NET Core SDK 3 or later](https://www.microsoft.com/net/download)
+   - [.NET Core SDK 3.0 or later](https://www.microsoft.com/net/download)
 
 1. Install the Quantum VS Code extension
 
@@ -182,7 +183,7 @@ Depending on your chosen development environment, there are different installati
 
 1. Pre-requisites
 
-    - [.NET Core SDK 3 or later](https://www.microsoft.com/net/download)
+    - [.NET Core SDK 3.0 or later](https://www.microsoft.com/net/download)
 
 1. Install the Quantum project templates for .NET
 
